@@ -18,7 +18,7 @@ class _BotCommands:
         self.QbLeechCommand = f'qbleech2{CMD_SUFFIX}'
         self.QbUnzipLeechCommand = f'qbunzipleech2{CMD_SUFFIX}'
         self.QbZipLeechCommand = f'qbzipleech2{CMD_SUFFIX}'
-        self.YtdlLeechCommand = f'ytdlleech2{CMD_SUFFIX}']
+        self.YtdlLeechCommand = f'ytdlleech2{CMD_SUFFIX}'
         self.YtdlZipLeechCommand = f'ytdlzipleech2{CMD_SUFFIX}'
         self.CloneCommand = f'clone2{CMD_SUFFIX}'
         self.CountCommand = f'count2{CMD_SUFFIX}'
